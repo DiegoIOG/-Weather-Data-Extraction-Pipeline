@@ -79,7 +79,6 @@ git clone <repo-url>
 cd weather_snowflake
 
 pip install -r requirements.txt
-# Usage
 
 # Run the pipeline with:
 
